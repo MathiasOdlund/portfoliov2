@@ -6,11 +6,11 @@
 		class="titles text-4xl md:text-4xl lg:text-5xl xl:text-7xl text-white mb-4"
 	>
 		<h1>Full-stack web developer,</h1>
-		<h1>Automation engineer,</h1>
+		<h1>Security consultant,</h1>
 		<h1>Cloud expert</h1>
 	</div>
 	<p class="w-full md:w-2/3 lg:w-1/2	 tracking-wide mb-4">
-		Hey👋, I'm Mathias, a Norwegian based designer and computer engineer
+		Hey👋, I'm Mathias, a Norwegian based designer and software developer
 		specializing in full-stack web development.
 	</p>
 	<hr class="w-full md:w-2/3 lg:w-1/2	 tracking-wide mb-4 text-secondary" />
