@@ -1,3 +1,10 @@
+<head>
+	<title>Home - Mathias Ödlund</title>
+	<meta
+		name="description"
+		content="I am a Norwegian-based web developer and automation engineer with a passion for solving complex problems with new and modern cloud solutions."
+	/>
+</head>
 
 <div
 	class="info flex flex-col w-full md:w-7/12 sm:w-full px-12 md:p-0 sm:p-12  tracking-in-expand  mt-10 lg:mt-32  md:mt-20 sm:mt-4 mx-auto"
@@ -6,8 +13,8 @@
 		class="titles text-4xl md:text-4xl lg:text-5xl xl:text-7xl text-white mb-4"
 	>
 		<h1>Full-stack web developer,</h1>
-		<h1>Security consultant,</h1>
-		<h1>Cloud expert</h1>
+		<h1>Web designer,</h1>
+		<h1>Enthusiast.</h1>
 	</div>
 	<p class="w-full md:w-2/3 lg:w-1/2	 tracking-wide mb-4">
 		Hey👋, I'm Mathias, a Norwegian based designer and software developer

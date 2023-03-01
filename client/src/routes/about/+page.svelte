@@ -24,8 +24,8 @@
     <p class="fakep">{p}</p>
     <p class="mb-4">	I am a Norwegian-based web developer and automation engineer with a
         passion for solving complex problems with new and modern cloud solutions.</p>
-        <p class="mb-2">	As a seasoned software developer with four years of experience as a freelancer, I have had the privilege of collaborating with a diverse range of startups, local companies, and other clients. My expertise lies in full-stack web development, and I am well-versed in employing a variety of tools to build robust web applications. My versatility extends to programming languages and frameworks, enabling me to adapt to the unique requirements of each project with ease.</p>
-            <p>Presently, I am proud to be a valuable contributor to the team at Evolo Technologies.
+        <p class="mb-2">	As a passionate software developer with four years of experience as a freelancer, I have had the privilege of collaborating with a diverse range of startups, local companies, and other clients. My expertise lies in full-stack web development, and I am well-versed in employing a variety of tools to build robust web applications. My versatility extends to programming languages and frameworks, enabling me to adapt to the unique requirements of each project with ease.</p>
+            <p>Today, I am proud to be a valuable contributor to the development team at Evolo Technologies.
 
 
 
